@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1557253076 source:c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\ejercicios\practicaparcial\practicaparcial_01\asociado.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"asociado.h"
+
+1557250633 source:c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\ejercicios\practicaparcial\practicaparcial_01\llamada.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"asociado.h"
+	"llamada.h"
+
+1557248719 c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\ejercicios\practicaparcial\practicaparcial_01\asociado.h
+
+1557205186 source:c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\ejercicios\practicaparcial\practicaparcial_01\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"asociado.h"
+	"llamada.h"
+
+1557204915 c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\ejercicios\practicaparcial\practicaparcial_01\llamada.h
+
