@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1557431741 source:c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\ejercicios\tp2\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arrayEmployees.h"
+	"utn_strings.h"
+	"utn_valid.h"
+
+1557425975 c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\ejercicios\tp2\tp_2\arrayemployees.h
+
+1557386961 c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\ejercicios\tp2\tp_2\utn_strings.h
+
+1557387482 c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\ejercicios\tp2\tp_2\utn_valid.h
+
+1557426586 source:c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\ejercicios\tp2\tp_2\utn_strings.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_valid.h"
+	"utn_strings.h"
+
+1557387482 source:c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\ejercicios\tp2\tp_2\utn_valid.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1557422535 source:c:\users\martinsamb\documents\01_unt_programacion\04_programacion i\ejercicios\tp2\tp_2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_strings.h"
+	"utn_valid.h"
+	"ArrayEmployees.h"
+
